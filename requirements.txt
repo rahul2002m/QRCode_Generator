@@ -1,0 +1,5 @@
+pip install qrcode
+pip install python-resize-image
+pip install Pillow
+pip install tk
+pip install tk-tools
