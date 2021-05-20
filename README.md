@@ -1,4 +1,4 @@
-# QRCode_Genrator
+# QRCode_Generator
 
 This project helps to generate QR code for the given details.<br>
 
